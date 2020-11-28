@@ -1,0 +1,62 @@
+.container{
+    margin: 100px;
+}
+.slider img{
+    margin: auto;
+}
+.multiple-items img{
+    height: 400px;
+    width: 400px;
+}
+.slick-track {
+    position: relative;
+    top: 30px;
+    left: 50px;
+    }
+   
+    .head h1{
+        text-align: center;
+        font-family: "sofia"; 
+     }
+
+
+.head2 h1{
+    text-align: center;
+    font-family: "sofia"; 
+ }
+
+.slick-prev, .slick-next{
+    border: 5px 5px;
+    background: rgb(130, 194, 57);
+    padding: 1%;
+    width: 49px;
+    height: 44px;
+    
+}
+.slick-prev, .prev{
+    border: 5px;
+    background:rgb(130, 194, 57);
+    padding: 1%;
+    width: 49px;
+    height: 44px;
+    
+}
+
+.slick-slide img {
+    display: block;
+}
+.slick-next {
+    right: -80px;
+}
+.slick-prev {
+    left: -50px;
+}
+.responsive img{
+    height: 300px;
+    width: 300px;
+}
+.slick-track {
+    position: relative;
+    top: 32px;
+    left: 33px;
+}
